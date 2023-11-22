@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá eu sou o Henrique 🚀
 
-<!--
-**HenriqueSantos-dev/HenriqueSantos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-santos-756133297/)
 
-Here are some ideas to get you started:
+Minhas Tecnologias! 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img aling="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</div><br><br>
+<p>Apaixonado por tecnonogia, buscando aprender um pouco mais a cada dia! 😃 </p>
+
+E-mail para contato:
+
+- henriquerod.santos10@gmail.com
