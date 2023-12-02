@@ -10,7 +10,7 @@ Minhas Tecnologias! 🌐
 <img aling="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 </div><br><br>
-<p>Apaixonado por tecnonogia, buscando aprender um pouco mais a cada dia! 😃 </p>
+<p>"A Tecnologia move o mundo"! 🚀😃 </p>
 
 E-mail para contato:
 
